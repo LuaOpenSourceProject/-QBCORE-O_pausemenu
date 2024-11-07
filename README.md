@@ -1,4 +1,4 @@
-# O_paausemenu
+# Origen_pausemenu
 
 Open Source Origen PauseMenu
 ¡Mejora la experiencia en tu servidor de FiveM con el innovador Open Source Origen PauseMenu!
